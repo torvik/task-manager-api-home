@@ -8,6 +8,7 @@ end
 gem 'rails', '~> 5.0.4'
 gem 'mysql2', '>= 0.3.18', '< 0.5'
 gem 'puma', '~> 3.0'
+gem 'devise'
 
 
 group :development, :test do
